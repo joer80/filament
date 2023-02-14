@@ -9,6 +9,7 @@
         "filament/filament": "^2.16",
         "filament/forms": "^2.16",
         "filament/notifications": "^2.16",
+        "filament/spatie-laravel-media-library-plugin": "^2.16",
         "filament/spatie-laravel-tags-plugin": "^2.16",
         "filament/tables": "^2.16",
         "guzzlehttp/guzzle": "^7.2",
